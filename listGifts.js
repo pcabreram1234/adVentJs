@@ -33,3 +33,12 @@ function listGifts(letter) {
 const carta = "bici coche balón _playstation bici scoche peluche";
 
 console.log(listGifts(carta));
+
+
+/* 
+____*____
+___***___
+__*****__
+_*******_
+********* 
+*/
